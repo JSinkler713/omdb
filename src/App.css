@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.actors {
+  font-weight: 800;
+}
+.title {
+  font-size: 2em;
+}
+.image {
+
+}
