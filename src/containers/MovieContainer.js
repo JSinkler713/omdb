@@ -11,7 +11,8 @@ class MovieContainer extends Component {
         imdbId={movie.imdbID}
         title={movie.Title}
         imgSrc={movie.Poster}
-        movie={movie}/>
+        movie={movie}
+          />
       })
     )
   }
