@@ -39,14 +39,15 @@
 .title {
   font-size: 2em;
 }
-.image {
 
-}
 .movieContainer {
   display: flex;
   flex-flow: row-wrap;
-  justify-content: space-around;
 }
 .movie {
-  display: flex;
+  margin: 10px;
+}
+.App {
+  height: 200px;
+  width: 100%;
 }

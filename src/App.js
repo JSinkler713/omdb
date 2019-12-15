@@ -9,7 +9,6 @@ import {
 } from "react-router-dom";
 import MovieContainer from './containers/MovieContainer.js'
 
-
 class App extends Component {
   state = {
     inputText: '',
